@@ -7,7 +7,7 @@
 
 </p>
 <p float="center"> 
-<img align="center" width=600px src="https://c.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif">
+<img align="center" width=600px src="https://i.pinimg.com/originals/fa/7b/4b/fa7b4bdc3b2f73e749e5c2c646d4ae13.gif">
   </p>
 <h2 align='center'>My Stats:</h2>
 
