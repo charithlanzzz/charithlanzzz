@@ -1,7 +1,7 @@
-[![MasterHead](https://https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://charithlanzzz.io)
 <h1 align="center">Hi 👋, I'm Charith Lansakara</h1>
 <h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
-<img align="right" alt="coding" width="400" src="https://c.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif"
+
+<img float="right" src="https://c.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charithlanzzz&label=Profile%20views&color=0e75b6&style=flat" alt="charithlanzzz" /> </p>
 
