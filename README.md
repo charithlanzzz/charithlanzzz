@@ -1,7 +1,12 @@
+
+<img align="center" width=600px src="https://softaxus.com/wp-content/uploads/2020/10/2a53651a35816f499270d8275fd5318f.gif">
+
 <h1 align="center">Hi 👋, I'm Charith Lansakara</h1>
 <h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
 
-<img float="right" src="https://c.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif">
+
+<img align="center" width=600px src="https://c.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif">
+  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charithlanzzz&label=Profile%20views&color=0e75b6&style=flat" alt="charithlanzzz" /> </p>
 
