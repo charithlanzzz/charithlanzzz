@@ -1,5 +1,5 @@
 
-<img align="center" width=600px src="https://softaxus.com/wp-content/uploads/2020/10/2a53651a35816f499270d8275fd5318f.gif">
+![MasterHead](https://softaxus.com/wp-content/uploads/2020/10/2a53651a35816f499270d8275fd5318f.gif)
 
 <h1 align="center">Hi 👋, I'm Charith Lansakara</h1>
 <h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
