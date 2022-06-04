@@ -22,8 +22,10 @@
 <a href="https://linkedin.com/in/charith-lansakara-2b5730221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charith-lansakara-2b5730221" height="30" width="30" /></a>
 <a href="https://fb.com/charith.lansakara.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="charith.lansakara.5" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCTFY0COrrI2S8M3MF2zMcXA" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/187/187210.png" alt="charith-lansakara-2b5730221" height="30" width="30" /></a>
-<a href="#" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/128/2504/premium/2504957.png?token=exp=1653774520~hmac=b77c7e0838ad9471faeb1c8469ac4e70" alt="0765615116" height="30" width="30" /></a>  
-<a href="#" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/128/2504/premium/2504941.png?token=exp=1653774676~hmac=bb3f1f6723d4b3808a1cc840758f64fb" alt="0765615116" height="30" width="30" /></a>  
+  
+  
+<!-- <a href="#" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/128/2504/premium/2504957.png?token=exp=1653774520~hmac=b77c7e0838ad9471faeb1c8469ac4e70" alt="0765615116" height="30" width="30" /></a>  
+<a href="#" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/128/2504/premium/2504941.png?token=exp=1653774676~hmac=bb3f1f6723d4b3808a1cc840758f64fb" alt="0765615116" height="30" width="30" /></a>   -->
   
 </p>
 
