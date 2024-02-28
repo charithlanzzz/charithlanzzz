@@ -5,18 +5,18 @@
   
   I am an energetic, ambitious person who has developed a mature and responsible approach to any task that I undertake, or situation that I am presented with. As an undergraduate with two years of experience in information technology, I am excellent at working with others to achieve a certain objective on time and with excellence. I am motivated to work and to learn, I am keen to explore different industries and am happy to learn whatever I need to be successful. I am a team player and extremely dedicated to my role. I hope to gain experience and acquire skills to help me advance in my field, while also using my abilities in a way that benefits the company I work for. 
 
-</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=charithlanzzz&label=Profile%20views&color=0e75b6&style=flat" alt="charithlanzzz" /> </p>
-<p float="center"> 
-<img align="center" width=600px src="https://i.pinimg.com/originals/fa/7b/4b/fa7b4bdc3b2f73e749e5c2c646d4ae13.gif">
-  </p>
+<div class="col-12">
+<div class="row">
+<img align="center" width=233px src="https://avatars.githubusercontent.com/u/88474609?v=4" alt="charithlanzzz" />
+<img align="right" width=600px src="https://i.pinimg.com/originals/fa/7b/4b/fa7b4bdc3b2f73e749e5c2c646d4ae13.gif">
+</div>
+  </div>
 <h2 align='center'>My Stats:</h2>
 
-[<img align="left" src = "https://git-readme-stats-kt8sghnlx-dulshan-perera.vercel.app/api?username=charithlanzzz&&count_private=true&show_icons=true&theme=dark" width="400px"/>](git-readme-stats-lake.vercel.app)
-
+[<img align="center" src="https://github-readme-stats.vercel.app/api?username=hussaino03&show_icons=true&theme=radical" />](git-readme-stats-lake.vercel.app)
 [<img align="right" src = "http://github-readme-streak-stats.herokuapp.com?user=charithlanzzz&theme=dark&date_format=M%20j%5B%2C%20Y%5D" width="400px"/>](https://git.io/streak-stats)
 
-<br/><br/><br/><br/><br/><br/><br/>
+<br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/charith-lansakara-2b5730221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charith-lansakara-2b5730221" height="30" width="30" /></a>
