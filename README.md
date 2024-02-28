@@ -3,7 +3,7 @@
 <h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
 <p float="center"> 
   
-  I am an energetic, ambitious person who has developed a mature and responsible approach to any task that I undertake, or situation that I am presented with. As an undergraduate with two years of experience in information technology, I am excellent in working with others to achieve a certain objective on time and with excellence.I am motivated to work and to learn, I am keen to explore different industries and am happy to learn whatever I need to be successful. I am a team player and extremely dedicated to my role.I hope to gain experience and acquire skills to help me advance in my field, while also using my abilities in a way that benefits the company I work for. 
+  I am an energetic, ambitious person who has developed a mature and responsible approach to any task that I undertake, or situation that I am presented with. As an undergraduate with two years of experience in information technology, I am excellent at working with others to achieve a certain objective on time and with excellence. I am motivated to work and to learn, I am keen to explore different industries and am happy to learn whatever I need to be successful. I am a team player and extremely dedicated to my role. I hope to gain experience and acquire skills to help me advance in my field, while also using my abilities in a way that benefits the company I work for. 
 
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charithlanzzz&label=Profile%20views&color=0e75b6&style=flat" alt="charithlanzzz" /> </p>
