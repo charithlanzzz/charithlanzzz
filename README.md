@@ -1,9 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Charith Lansakara</h1>
-<h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
+<h3 align="center">A passionate backend developer(PHP Laravel) from Sri Lanka</h3>
 <p float="center"> 
   
-  I am an energetic, ambitious person who has developed a mature and responsible approach to any task that I undertake, or situation that I am presented with. As an undergraduate with two years of experience in information technology, I am excellent at working with others to achieve a certain objective on time and with excellence. I am motivated to work and to learn, I am keen to explore different industries and am happy to learn whatever I need to be successful. I am a team player and extremely dedicated to my role. I hope to gain experience and acquire skills to help me advance in my field, while also using my abilities in a way that benefits the company I work for. 
+  I began my educational journey at St. Joseph’s College, Colombo, where I developed a strong foundation and a passion for problem-solving and technology. Following my time at St. Joseph’s, I pursued higher education at SLIIT, graduating with a degree in Software Engineering. During this 4-year program, I gained a solid understanding of software development principles and honed my skills in various programming languages and technologies.
+
+My professional career began at PRAMIX IT, where I worked for one year as an intern and software developer. During my time there, I contributed to multiple projects, primarily focusing on PHP Laravel Backend development. This experience helped shape my approach to building efficient and scalable software solutions.
+
+Currently, I am working at Xiteb Pvt Ltd as a Software Engineer. In this role, I specialize in backend development using PHP and Laravel, working on diverse projects that range from eCommerce platforms to custom business applications. With over 2 years and 8 months of total experience, I am dedicated to delivering high-quality code and continuously learning new technologies to stay at the forefront of the industry. 
 
 <div class="col-12">
 <div class="row">
@@ -24,8 +28,6 @@
 <a href="https://www.youtube.com/channel/UCTFY0COrrI2S8M3MF2zMcXA" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/187/187210.png" alt="charith-lansakara-2b5730221" height="30" width="30" /></a>
   
   
-<!-- <a href="#" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/128/2504/premium/2504957.png?token=exp=1653774520~hmac=b77c7e0838ad9471faeb1c8469ac4e70" alt="0765615116" height="30" width="30" /></a>  
-<a href="#" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/128/2504/premium/2504941.png?token=exp=1653774676~hmac=bb3f1f6723d4b3808a1cc840758f64fb" alt="0765615116" height="30" width="30" /></a>   -->
   
 </p>
 
@@ -82,6 +84,7 @@
   <img src=https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white/>
   <img src=https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white/>
   <img src=https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white/>
+  <img src=https://img.shields.io/badge/bitbucket-%23181717.svg?style=for-the-badge&logo=bitbucket&logoColor=white/>
 </p>
 
 <h4 align='center'>IDEs/Editors</h4>
