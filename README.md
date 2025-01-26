@@ -3,11 +3,16 @@
 <h3 align="center">A passionate backend developer(PHP Laravel) from Sri Lanka</h3>
 <p float="center"> 
   
-  I began my educational journey at St. Joseph’s College, Colombo, where I developed a strong foundation and a passion for problem-solving and technology. Following my time at St. Joseph’s, I pursued higher education at SLIIT, graduating with a degree in Software Engineering. During this 4-year program, I gained a solid understanding of software development principles and honed my skills in various programming languages and technologies.
+  I began my educational journey at St. Joseph’s College, Colombo, where I built a strong foundation and nurtured my passion for technology and problem-solving. I then pursued higher education at SLIIT, graduating with a degree in Software Engineering. This 4-year program equipped me with a comprehensive understanding of software development principles and strengthened my skills in various programming languages and technologies.
 
-My professional career began at PRAMIX IT, where I worked for one year as an intern and software developer. During my time there, I contributed to multiple projects, primarily focusing on PHP Laravel Backend development. This experience helped shape my approach to building efficient and scalable software solutions.
+My professional career began at PRAMIX Holdings Pvt Ltd, where I worked as a Software Developer (Intern) for over a year. During this time, I contributed to real-world projects, gaining hands-on experience in PHP Laravel development, CRUD operations, and API implementation. This role allowed me to refine my technical skills and develop an efficient approach to solving software challenges.
 
-Currently, I am working at Xiteb Pvt Ltd as a Software Engineer. In this role, I specialize in backend development using PHP and Laravel, working on diverse projects that range from eCommerce platforms to custom business applications. With over 2 years and 8 months of total experience, I am dedicated to delivering high-quality code and continuously learning new technologies to stay at the forefront of the industry. 
+Currently, I am employed at Xiteb Pvt Ltd as a Software Engineer, with over 2 years of experience in the role. My primary focus is backend development using PHP and Laravel, and I have worked on diverse projects, including eCommerce platforms and custom business solutions. My responsibilities include implementing new features, fixing bugs, and optimizing systems to meet business goals.
+
+In addition to my professional roles, I have gained extensive experience in tasks such as API integrations, social login implementations, SEO enhancements, Recaptcha integration, SMS gateway configurations, Laravel Dusk testing, and handling bulk data operations through CSV. I am also skilled in generating PDFs with email attachments and implementing scalable solutions.
+
+With a dedication to continuous learning and a drive to contribute meaningfully to innovative projects, I strive to stay updated with emerging technologies and deliver impactful software solutions.
+ 
 
 <div class="col-12">
 <div class="row">
